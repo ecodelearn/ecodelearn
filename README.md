@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Follow&style=social)](https://github.com/ecodelearn)
 [![My Mentor Sandeco](https://img.shields.io/badge/YouTube-CanalSandeco-red)](https://youtube.com/@canalsandeco)
 
-## 👨‍💻 Sobre mim / About me
+## 👨‍💻 Sobre mim / About me 🇧🇷
 
 Olá! Sou o Daniel Dias e Souza, desenvolvedor com mais de 20 anos de experiência, apaixonado por tecnologia desde os 12 anos, quando comecei a explorar o MS-DOS e o Basic. Hoje, minha jornada está focada em Inteligência Artificial, Data Science e Machine Learning. Tenho como mentor o professor Sandeco, do canal [Canal Sandeco](https://youtube.com/@canalsandeco).
 
