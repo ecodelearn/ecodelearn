@@ -1,9 +1,3 @@
-
-Memória atualizada
-Aqui está o README.md atualizado com suas especialidades e mentor:
-
-markdown
-Copiar código
 # 👋 Olá! Bem-vindo ao repositório EcodeLearn! / Hello! Welcome to the EcodeLearn repository!
 
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Follow&style=social)](https://github.com/ecodelearn)
