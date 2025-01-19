@@ -9,12 +9,6 @@ Olá! Sou Daniel Dias e Souza, um eterno aprendiz apaixonado por tecnologia desd
 
 Hello! I'm Daniel Dias e Souza, a lifelong learner with a passion for technology since age 12, starting with MS-DOS and Basic. Now, I'm focused on AI, Data Science, and Machine Learning, growing under the mentorship of Professor Sandeco from the [Canal Sandeco](https://youtube.com/@canalsandeco).
 
-## 📚 EcodeLearn: Educação e Tecnologia / Education and Technology
-
-EcodeLearn é um espaço dedicado a explorar IA, Data Science e desenvolvimento. Aqui, você encontrará projetos e tutoriais práticos para quem quer aprender mais sobre essas áreas.
-
-EcodeLearn is a place to explore AI, Data Science, and development. You’ll find practical projects and tutorials for anyone eager to learn more.
-
 ## 🌱 Entusiasta / Enthusiast
 
 - **CSS, PHP, JavaScript, Python**: Ferramentas com as quais exploro soluções para web e automação.
