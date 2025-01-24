@@ -19,7 +19,7 @@ Hello! I'm Daniel Dias e Souza, a lifelong learner with a passion for technology
 
 - 🌐 [LinuxGO - Tutoriais](https://linuxgo.com.br)
 - 📺 [Canal Sandeco no YouTube](https://youtube.com/@canalsandeco)
-- 📝 [EcodeLearn no GitHub](https://github.com/ecodelearn/ecodelearn)
+- 📝 [EcodeLearn no GitHub([https://github.com/ecodelearn/ecodelearn](https://github.com/ecodelearn?tab=repositories)
 
 ## 🤝 Vamos conectar! / Let's Connect!
 
