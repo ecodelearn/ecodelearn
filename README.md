@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Follow&style=social)](https://github.com/ecodelearn)
 [![My Mentor Sandeco](https://img.shields.io/badge/YouTube-CanalSandeco-red)](https://youtube.com/@canalsandeco)
+[![Website](https://img.shields.io/badge/Website-LinuxGO-blue?style=flat-square&logo=globe)](https://linuxgo.com.br)
 
 ## 👨‍💻 Sobre mim / About me
 
