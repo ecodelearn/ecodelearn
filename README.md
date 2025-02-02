@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Follow&style=social)](https://github.com/ecodelearn)
 [![My Mentor Sandeco](https://img.shields.io/badge/YouTube-CanalSandeco-red)](https://youtube.com/@canalsandeco)
 [![Website](https://img.shields.io/badge/Website-LinuxGO-blue?style=flat-square&logo=globe)](https://linuxgo.com.br)
+[![GitHub Repositories](https://img.shields.io/badge/Repositories-ecodelearn-informational?style=flat-square&logo=github)](https://github.com/ecodelearn?tab=repositories)
 
 ## 👨‍💻 Sobre mim / About me
 
@@ -16,12 +17,6 @@ Hello! I'm Daniel Dias e Souza, a lifelong learner with a passion for technology
 - **IA, ML e Data Science**: Desenvolvimento de soluções para reconhecimento facial e processamento de dados.
 - **Tutoriais e Guias / Tutorials and Guides**: Conteúdos práticos e didáticos para iniciantes e entusiastas.
 
-## 🔗 Links Importantes / Important Links
-
-- 🌐 [LinuxGO - Tutoriais](https://linuxgo.com.br)
-- 📺 [Canal Sandeco no YouTube](https://youtube.com/@canalsandeco)
-- 📝 [EcodeLearn GitHub repositories](https://github.com/ecodelearn?tab=repositories)
-
 ## 🤝 Vamos conectar! / Let's Connect!
 
 Estou sempre aberto a colaborações e discussões sobre IA, desenvolvimento e tecnologia. Explore o repositório e fique à vontade para entrar em contato! 😄
@@ -30,4 +25,4 @@ I'm always open to collaborations and discussions about AI, development, and tec
 
 ---
 
-🚀 **Vamos aprender e crescer juntos! / Let's learn and grow together!** 
+🚀 **Vamos aprender e crescer juntos! / Let's learn and grow together!**
