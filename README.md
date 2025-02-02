@@ -29,4 +29,4 @@ I'm always open to collaborations and discussions about AI, development, and tec
 
 ---
 
-🚀 **Vamos aprender e crescer juntos! / Let's learn and grow together!**
+🚀 **Vamos aprender e crescer juntos! / Let's learn and grow together!** 
