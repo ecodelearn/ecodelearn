@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🤖 AI/ML Enthusiast & Full-Stack Developer
+### 🤖 AI/ML Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Seguidores&style=social)](https://github.com/ecodelearn)
 [![YouTube](https://img.shields.io/badge/Canal%20Sandeco-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@canalsandeco)
