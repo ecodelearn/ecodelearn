@@ -14,7 +14,7 @@
 
 > **"Eterno aprendiz apaixonado por tecnologia desde os 12 anos"**
 
-Sou um **desenvolvedor Full-Stack** e **entusiasta de IA/ML** em constante evolução. Minha jornada começou explorando **MS-DOS e Basic** aos 12 anos, e hoje estudo e desenvolvo soluções em **Inteligência Artificial**, **Data Science** e **Machine Learning** sob a orientação do Professor Sandeco.
+Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou explorando **MS-DOS e Basic** aos 12 anos, e hoje estudo e desenvolvo soluções em **Inteligência Artificial**, **Data Science** e **Machine Learning** sob a orientação do Professor Sandeco.
 
 - 👨‍🏫 **Mentorado por:** Professor Sandeco - [Canal Sandeco](https://youtube.com/@canalsandeco)
 
