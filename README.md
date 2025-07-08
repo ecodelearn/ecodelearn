@@ -29,7 +29,7 @@ Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou e
 
 ### 💬 *"Estou sempre aberto a colaborações e discussões sobre IA, desenvolvimento e tecnologia!"*
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@canalsandeco)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/mpm5bwNI_4Q?t=4090)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linuxgo.com.br)
 
