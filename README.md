@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Daniel Dias e Souza
+# 👋 Olá! Sou Daniel Dias
 
 <div align="center">
 
