@@ -16,7 +16,7 @@
 
 Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou explorando **MS-DOS e Basic** aos 12 anos, e hoje estudo e desenvolvo soluções em **Inteligência Artificial**, **Data Science** e **Machine Learning** sob a orientação do Professor Sandeco.
 
-- 👨‍🏫 **Mentorado por:** Professor Sandeco - [Canal Sandeco](https://youtu.be/mpm5bwNI_4Q?t=4090)
+- 👨‍🏫 **Mentorado por:** Professor Sandeco - [Participação em Live no Canal Sandeco](https://youtu.be/mpm5bwNI_4Q?t=4090)
 
 ## 📈 Estatísticas do GitHub
 
