@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ecodelearn?label=Seguidores&style=social)](https://github.com/ecodelearn)
 [![YouTube](https://img.shields.io/badge/Canal%20Sandeco-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@canalsandeco)
-[![Website](https://img.shields.io/badge/Website-linuxgo.com.br-blue)](https://linuxgo.com.br)
+[![Website](https://img.shields.io/badge/Website-iaforte.com.br-blue)](https://iaforte.com.br)
 
 </div>
 
@@ -31,7 +31,7 @@ Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou e
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/mpm5bwNI_4Q?t=4090)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linuxgo.com.br)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iaforte.com.br)
 
 </div>
 
