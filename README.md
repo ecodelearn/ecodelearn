@@ -40,6 +40,8 @@ Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou e
 ### 🌟 *"Vamos aprender e crescer juntos!"*
 ### *Let's learn and grow together!* 🚀
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-dias-souza)
+
 <img src="https://komarev.com/ghpvc/?username=ecodelearn&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 
 </div>
