@@ -18,12 +18,6 @@ Sou um **entusiasta de IA/ML** em constante evolução. Minha jornada começou e
 
 - 👨‍🏫 **Mentorado por:** Professor Sandeco - [Participação em Live no Canal Sandeco](https://youtu.be/mpm5bwNI_4Q?t=4090)
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ecodelearn&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecodelearn&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <div align="center">
 
