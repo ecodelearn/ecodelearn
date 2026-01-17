@@ -23,7 +23,7 @@ Sou um **entusiasta de IA/ML** em constante evolução.  Minha jornada começou 
 
 - 🌱 Atualmente aprendendo:  **IA Generativa**, **LLMs**, **Deep Learning**
 - 🎓 Mentorado por: **Professor Sandeco** - [Participação em Live](https://youtu.be/mpm5bwNI_4Q?t=4090)
-- 🌐 Website: [iaforte.com. br](https://iaforte.com.br)
+- 🌐 Websites: [IA FORTE](https://iaforte.com.br) Vamos aprender juntos [LinuxGO](https://linuxgo.com.br)
 - 💼 Foco:  Desenvolvimento de soluções inovadoras com IA
 
 ---
