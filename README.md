@@ -20,15 +20,37 @@ Entusiasta de IA/ML em constante evolução. Comecei explorando MS-DOS e Basic a
 
 ## 🛠️ Tech Stack
 
+O que eu realmente uso no dia a dia, com base nos meus repositórios:
+
+**Linguagens**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell%2FBash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+**IA & Automação**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA%20%26%20RAG-6E56CF?style=flat)
+![MCP](https://img.shields.io/badge/MCP-333333?style=flat)
+
+**Infra & Dados**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Linux & Segurança**
+
+![Arch Linux](https://img.shields.io/badge/Arch%2FCachyOS-1793D1?style=flat&logo=archlinux&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF-2C2C2C?style=flat)
+![Hardening](https://img.shields.io/badge/Linux%20Hardening-333333?style=flat)
+![MikroTik](https://img.shields.io/badge/MikroTik%2FRouterOS-293239?style=flat)
 
 ## 💬 Vamos conversar
 
