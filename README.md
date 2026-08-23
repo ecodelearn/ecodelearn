@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-dias-souza)
 [![Website](https://img.shields.io/badge/Website-iaforte.com.br-blue)](https://iaforte.com.br)
 [![YouTube](https://img.shields.io/badge/Canal%20Sandeco-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@canalsandeco)
+[![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?style=flat&logo=google&logoColor=white)](https://g.dev/iaforte)
+[![Cloud Skills Boost](https://img.shields.io/badge/Cloud%20Skills%20Boost-Gold%20League-34A853?style=flat&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/ca41d46d-a867-418b-91a1-c46881fcd571)
 
 ---
 
@@ -35,6 +37,8 @@ O que eu realmente uso no dia a dia, com base nos meus repositórios:
 **IA & Automação**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA%20%26%20RAG-6E56CF?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-333333?style=flat)
@@ -51,6 +55,13 @@ O que eu realmente uso no dia a dia, com base nos meus repositórios:
 ![eBPF](https://img.shields.io/badge/eBPF-2C2C2C?style=flat)
 ![Hardening](https://img.shields.io/badge/Linux%20Hardening-333333?style=flat)
 ![MikroTik](https://img.shields.io/badge/MikroTik%2FRouterOS-293239?style=flat)
+
+## 🏅 Certificações & Comunidade
+
+- 🔷 **Google Developer Program** — Premium Tier · [Google Cloud Innovator](https://g.dev/iaforte)
+- 👥 **GDG Goiânia** — Membro do Google Developer Group local
+- ☁️ **Google Cloud Skills Boost** — Gold League · 7.224 pts · 13 badges, com foco em Gen AI, LLMs, Vertex AI e Responsible AI
+- 🤖 Selos recentes: *Gemini Enterprise Agent Ready*, *AIventure app solution* (started → completed → launched)
 
 ## 💬 Vamos conversar
 
