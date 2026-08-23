@@ -1,6 +1,6 @@
-# 👋 Olá, sou Daniel Dias
+# 👋 Hi, I'm Daniel Dias
 
-**AI/ML Enthusiast · Eterno Aprendiz · Tech Passionate**
+**AI Agent Engineer · Linux Security Tinkerer · Lifelong Learner**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-dias-souza)
 [![Website](https://img.shields.io/badge/Website-iaforte.com.br-blue)](https://iaforte.com.br)
@@ -10,21 +10,26 @@
 
 ---
 
-## 🎯 Sobre mim
+## 🎯 About Me
 
-> "Eterno aprendiz apaixonado por tecnologia desde os 12 anos"
+I got into computers at 12, poking around MS-DOS and Basic — that curiosity never really left. These days I split my time between **AI agent engineering** and **Linux/systems security**.
 
-Entusiasta de IA/ML em constante evolução. Comecei explorando MS-DOS e Basic aos 12 anos, e hoje estudo e desenvolvo soluções em **Inteligência Artificial**, **Data Science** e **Machine Learning**.
+On the AI side, I build practical tooling around LLM agents: Claude Code templates and workflows, MCP servers, RAG pipelines, and n8n automations.
 
-- 🌱 Aprendendo agora: IA Generativa, LLMs, Deep Learning
-- 🎓 Mentorado por: Professor Sandeco — [participação em live](https://youtu.be/mpm5bwNI_4Q?t=4090)
+On the security side, I write eBPF-based enforcement tools, audit and document Linux privilege-escalation CVEs, and harden Arch/CachyOS desktops and MikroTik routers — sharing what I learn the hard way along the way.
+
+- 🤖 Building: AI agent tooling, MCP servers, automation pipelines
+- 🔐 Also digging into: eBPF, Linux hardening, privesc research
+- 🎓 Mentored by Professor Sandeco — [live session](https://youtu.be/mpm5bwNI_4Q?t=4090)
+- 🙋 Volunteer admin for Canal Sandeco's Applied AI WhatsApp communities since 2022, helping members daily
 - 🌐 Sites: [IA Forte](https://iaforte.com.br) · [LinuxGO](https://linuxgo.com.br)
+- 🏅 Google Developer Program (Premium) · GDG Goiânia member · Cloud Skills Boost Gold League
 
 ## 🛠️ Tech Stack
 
-O que eu realmente uso no dia a dia, com base nos meus repositórios:
+What I actually use day-to-day, based on my repositories:
 
-**Linguagens**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -34,42 +39,42 @@ O que eu realmente uso no dia a dia, com base nos meus repositórios:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-**IA & Automação**
+**AI & Automation**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA%20%26%20RAG-6E56CF?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents%20%26%20RAG-6E56CF?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-333333?style=flat)
 
-**Infra & Dados**
+**Infra & Data**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Linux & Segurança**
+**Linux & Security**
 
 ![Arch Linux](https://img.shields.io/badge/Arch%2FCachyOS-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![eBPF](https://img.shields.io/badge/eBPF-2C2C2C?style=flat)
 ![Hardening](https://img.shields.io/badge/Linux%20Hardening-333333?style=flat)
 ![MikroTik](https://img.shields.io/badge/MikroTik%2FRouterOS-293239?style=flat)
 
-## 🏅 Certificações & Comunidade
+## 🏅 Certifications & Community
 
 - 🔷 **Google Developer Program** — Premium Tier · [Google Cloud Innovator](https://g.dev/iaforte)
-- 👥 **GDG Goiânia** — Membro do Google Developer Group local
-- ☁️ **Google Cloud Skills Boost** — Gold League · 7.224 pts · 13 badges, com foco em Gen AI, LLMs, Vertex AI e Responsible AI
-- 🤖 Selos recentes: *Gemini Enterprise Agent Ready*, *AIventure app solution* (started → completed → launched)
+- 👥 **GDG Goiânia** — Member of the local Google Developer Group
+- ☁️ **Google Cloud Skills Boost** — Gold League · 7,224 pts · 13 badges, focused on Gen AI, LLMs, Vertex AI, and Responsible AI
+- 🤖 Recent badges: *Gemini Enterprise Agent Ready*, *AIventure app solution* (started → completed → launched)
 
-## 💬 Vamos conversar
+## 💬 Let's Connect
 
-Sempre aberto a colaborações e discussões sobre IA, desenvolvimento e tecnologia.
+Always open to collaborating and talking about AI, development, and technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-dias-souza)
 [![Website](https://img.shields.io/badge/iaforte.com.br-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iaforte.com.br)
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere dar uma estrela nos meus repositórios!
+⭐ If you like my work, consider starring my repositories!
